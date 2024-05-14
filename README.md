@@ -1,2 +1,2 @@
 # InsanityCalculator
-calculator for insane people
+a calculator for people that are insane
