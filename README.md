@@ -1,5 +1,5 @@
 # InsanityCalculator
-a gen 1 pokemon damage calculator
+A gen 1 Multiuse Tool
 -
 -
 -
