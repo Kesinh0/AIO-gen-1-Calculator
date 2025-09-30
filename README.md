@@ -1,5 +1,6 @@
-# AIO calculator for gen 1 coded in fucking C
+# AIO calculator for gen 1 coded in C code, glue, hopes and dreams
 A gen 1 Multiuse Tool
+- in spanish for no reason at all
 - damage calc
 - catch probability calc
 - interactive menu (wow)
